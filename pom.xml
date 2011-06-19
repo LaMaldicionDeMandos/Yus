@@ -21,6 +21,7 @@
 	
 	<modules>
 		<module>injection</module>
+		<module>notification</module>
 	</modules>
 	
 	<build>

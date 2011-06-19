@@ -21,7 +21,7 @@
 				<version>${flex.mojos.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-					<targetPlayer>10.0</targetPlayer>
+					<targetPlayer>${flash.player.version}</targetPlayer>
 						<!--
 						<debug>false</debug>
 						<enableM2e>false</enableM2e>
@@ -39,9 +39,10 @@
 						-->
 					<keepAs3Metadatas>
 						<keepAs3Metadata>ConstructorArgument</keepAs3Metadata>
+						<keepAs3Metadata>Argument</keepAs3Metadata>
 						<keepAs3Metadata>Inject</keepAs3Metadata>
 						<keepAs3Metadata>PostConstruct</keepAs3Metadata>
-						<keepAs3Metadata>Argument</keepAs3Metadata>
+						<keepAs3Metadata>Provider</keepAs3Metadata>
 					</keepAs3Metadatas>
 					
 					<!--

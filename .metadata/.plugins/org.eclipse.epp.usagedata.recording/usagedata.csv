@@ -1,126 +1,182 @@
 what,kind,bundleId,bundleVersion,description,time
-error,log,,,"Error fetching actionscript project for injection",1308446882418
-error,log,,,"Error fetching actionscript project for injection",1308446882441
-error,log,,,"Error fetching actionscript project for injection",1308446882449
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446899138
-error,log,,,"Error fetching actionscript project for injection",1308446899147
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446900439
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446904359
-error,log,,,"Error fetching actionscript project for injection",1308446904381
-error,log,,,"Error fetching actionscript project for injection",1308446904389
-error,log,,,"Error fetching actionscript project for injection",1308446904397
-error,log,,,"Error fetching actionscript project for injection",1308446904405
-error,log,,,"Error fetching actionscript project for injection",1308446904412
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446904416
-error,log,,,"Error fetching actionscript project for injection",1308446904458
-error,log,,,"Error fetching actionscript project for injection",1308446904467
-error,log,,,"Error fetching actionscript project for injection",1308446904476
-error,log,,,"Error fetching actionscript project for injection",1308446904483
-error,log,,,"Error fetching actionscript project for injection",1308446904490
-error,log,,,"Error fetching actionscript project for injection",1308446904497
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446905710
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446905817
-error,log,,,"Error fetching actionscript project for injection",1308446907348
-error,log,,,"Error fetching actionscript project for injection",1308446907358
-error,log,,,"Error fetching actionscript project for injection",1308446907366
-error,log,,,"Error fetching actionscript project for injection",1308446907372
-error,log,,,"Error fetching actionscript project for injection",1308446907379
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446907382
-error,log,,,"Error fetching actionscript project for injection",1308446907389
-error,log,,,"Error fetching actionscript project for injection",1308446909430
-started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.202.v201004211732,"org.eclipse.wst.ws.service.policy.ui",1308446909477
-started,bundle,org.eclipse.wst.ws.service.policy,1.0.204.v201011011834,"org.eclipse.wst.ws.service.policy",1308446909481
-started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1308446909499
-started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1308446909500
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446909738
-error,log,,,"Error fetching actionscript project for injection",1308446909806
-error,log,,,"Error fetching actionscript project for injection",1308446909813
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446919340
-error,log,,,"Error fetching actionscript project for injection",1308446919348
-error,log,,,"Error fetching actionscript project for injection",1308446920307
-error,log,,,"Error fetching actionscript project for injection",1308446920317
-error,log,,,"Error fetching actionscript project for injection",1308446920325
-error,log,,,"Error fetching actionscript project for injection",1308446920332
-error,log,,,"Error fetching actionscript project for injection",1308446920337
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446920341
-error,log,,,"Error fetching actionscript project for injection",1308446920349
-started,bundle,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui",1308446923064
-error,log,,,"Error fetching actionscript project for injection",1308446924133
-error,log,,,"Error fetching actionscript project for injection",1308446924145
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446924193
-error,log,,,"Error fetching actionscript project for injection",1308446924209
-error,log,,,"Error fetching actionscript project for injection",1308446924216
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446924257
-error,log,,,"Error fetching actionscript project for injection",1308446925861
-error,log,,,"Error fetching actionscript project for injection",1308446925871
-error,log,,,"Error fetching actionscript project for injection",1308446925877
-error,log,,,"Error fetching actionscript project for injection",1308446925884
-error,log,,,"Error fetching actionscript project for injection",1308446925890
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446925894
-error,log,,,"Error fetching actionscript project for injection",1308446925901
-error,log,,,"Error fetching actionscript project for injection",1308446946739
-error,log,,,"Error fetching actionscript project for injection",1308446946757
-error,log,,,"Error fetching actionscript project for injection",1308446946764
-error,log,,,"Error fetching actionscript project for injection",1308446946773
-error,log,,,"Error fetching actionscript project for injection",1308446949064
-error,log,,,"Error fetching actionscript project for injection",1308446949071
-error,log,,,"Error fetching actionscript project for injection",1308446949079
-error,log,,,"Error fetching actionscript project for injection",1308446949086
-error,log,,,"Error fetching actionscript project for injection",1308446949094
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446949098
-error,log,,,"Error fetching actionscript project for injection",1308446949111
-error,log,,,"Error fetching actionscript project for injection",1308446951951
-error,log,,,"Error fetching actionscript project for injection",1308446951982
-error,log,,,"Error fetching actionscript project for injection",1308446951989
-error,log,,,"Error fetching actionscript project for injection",1308446951996
-error,log,,,"Error fetching actionscript project for injection",1308446953404
-error,log,,,"Error fetching actionscript project for injection",1308446953414
-error,log,,,"Error fetching actionscript project for injection",1308446953420
-error,log,,,"Error fetching actionscript project for injection",1308446953427
-error,log,,,"Error fetching actionscript project for injection",1308446953434
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446953437
-error,log,,,"Error fetching actionscript project for injection",1308446953445
-error,log,,,"Error fetching actionscript project for injection",1308446962528
-error,log,,,"Error fetching actionscript project for injection",1308446962560
-error,log,,,"Error fetching actionscript project for injection",1308446962569
-error,log,,,"Error fetching actionscript project for injection",1308446962579
-started,bundle,com.adobe.flexbuilder.monitors.network,4.0.1.277662,"com.adobe.flexbuilder.monitors.network",1308446962603
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308446981098
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446982411
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308446997634
-activated,editor,com.adobe.flexbuilder.project.ui,4.0.1.277662,"com.adobe.flexbuilder.ui.StartPage",1308447001567
-activated,view,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.packageexplorer",1308447001598
-closed,editor,com.adobe.flexbuilder.project.ui,4.0.1.277662,"com.adobe.flexbuilder.ui.StartPage",1308447001598
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308447003354
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447004955
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447021576
-started,bundle,org.eclipse.wst.server.ui,1.1.208.v20110427_1739,"org.eclipse.wst.server.ui",1308447027354
-started,bundle,org.maven.ide.eclipse.launching,0.12.1.20110112-1712,"org.maven.ide.eclipse.launching",1308447027361
-started,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.4.v201103310001,"org.eclipse.wst.jsdt.debug.ui",1308447027382
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447028145
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447031453
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308447032756
-error,log,,,"Plug-in 'org.maven.ide.eclipse.refactoring' contributed an invalid Menu Extension (Path: 'org.eclipse.jdt.ui.refactoring.menu' is invalid): org.maven.ide.eclipse.editor.RenameProjectAction",1308447059416
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447061098
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447136652
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447157855
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447159100
-executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1308447159114
-activated,view,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.views.ProblemView",1308447169896
-activated,view,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.packageexplorer",1308447173087
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447195168
-no handler,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.undo",1308447239797
-started,bundle,org.eclipse.pde.launching,3.6.0.v20100601,"org.eclipse.pde.launching",1308447286366
-started,bundle,org.eclipse.ui.views.log,1.0.100.v20100423,"org.eclipse.ui.views.log",1308447286383
-started,bundle,org.eclipse.pde.ui,3.6.1.v20100810_r361,"org.eclipse.pde.ui",1308447286413
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447288360
-started,bundle,org.eclipse.compare.core,3.5.100.I20100526-0800,"org.eclipse.compare.core",1308447314963
-opened,editor,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor",1308447315033
-activated,editor,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor",1308447315187
-opened,view,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.as.editor.asdocviewer",1308447315542
-activated,view,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.packageexplorer",1308447320828
-deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447325810
-activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1308447330375
-activated,editor,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor",1308447331324
-executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.edit.copy",1308447333391
-activated,view,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.packageexplorer",1308447335326
+stopped,bundle,org.eclipse.uml2.diagram.def,0.9.0.v200906190654,"org.eclipse.uml2.diagram.def",1308447804463
+stopped,bundle,org.eclipse.gmf.codegen,2.2.100.v20100518-2359,"org.eclipse.gmf.codegen",1308447804464
+stopped,bundle,org.eclipse.gmf.graphdef.codegen,2.0.101.v20100831-1541,"org.eclipse.gmf.graphdef.codegen",1308447804465
+stopped,bundle,org.eclipse.gmf.map.edit,2.2.100.v20100309-2359,"org.eclipse.gmf.map.edit",1308447804466
+stopped,bundle,org.eclipse.gmf.graphdef.edit,2.0.200.v20090216-1925,"org.eclipse.gmf.graphdef.edit",1308447804469
+stopped,bundle,org.eclipse.gmf.map,2.2.101.v20100831-1541,"org.eclipse.gmf.map",1308447804470
+stopped,bundle,org.eclipse.gmf.tooldef.edit,2.0.100.v20090114-0940,"org.eclipse.gmf.tooldef.edit",1308447804471
+stopped,bundle,org.eclipse.gmf.tooldef,2.0.0.v20090114-0940,"org.eclipse.gmf.tooldef",1308447804471
+stopped,bundle,org.eclipse.gmf.common,1.2.0.v20100226-2359,"org.eclipse.gmf.common",1308447804473
+stopped,bundle,com.soyatec.diagrams,2.7.0.20091121,"com.soyatec.diagrams",1308447804474
+stopped,bundle,com.android.ide.eclipse.traceview,10.0.1.v201103111512-110841,"com.android.ide.eclipse.traceview",1308447804474
+stopped,bundle,org.eclipse.jst.common.ui,1.0.3.v201101101700,"org.eclipse.jst.common.ui",1308447804475
+stopped,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.303.v201012160047,"org.eclipse.wst.jsdt.web.support.jsp",1308447804476
+stopped,bundle,org.eclipse.jst.jsp.ui,1.1.504.v201103231819,"org.eclipse.jst.jsp.ui",1308447804477
+stopped,bundle,org.maven.ide.eclipse.jdt,0.12.1.20110112-1712,"org.maven.ide.eclipse.jdt",1308447804477
+stopped,bundle,org.maven.ide.eclipse.refactoring,0.12.1.20110112-1712,"org.maven.ide.eclipse.refactoring",1308447804477
+stopped,bundle,org.eclipse.jdt.ui,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.ui",1308447804477
+stopped,bundle,org.eclipse.rse.importexport,1.2.101.v201008191400,"org.eclipse.rse.importexport",1308447804478
+stopped,bundle,org.eclipse.rse.subsystems.shells.telnet,1.2.0.v200905272300,"org.eclipse.rse.subsystems.shells.telnet",1308447804484
+stopped,bundle,org.eclipse.rse.useractions,1.1.100.v200905272300,"org.eclipse.rse.useractions",1308447804484
+stopped,bundle,org.eclipse.rse.shells.ui,3.0.200.v201006041352,"org.eclipse.rse.shells.ui",1308447804485
+stopped,bundle,org.eclipse.rse.files.ui,3.1.101.v201009071110,"org.eclipse.rse.files.ui",1308447804487
+stopped,bundle,org.eclipse.rse.processes.ui,3.0.200.v201003010830,"org.eclipse.rse.processes.ui",1308447804488
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1308447804490
+stopped,bundle,org.eclipse.wst.wsi.ui,1.0.501.v201004201506,"org.eclipse.wst.wsi.ui",1308447804491
+stopped,bundle,org.eclipse.wst.wsdl.ui,1.2.305.v201103170010,"org.eclipse.wst.wsdl.ui",1308447804495
+stopped,bundle,org.eclipse.wst.xsl.exslt.ui,1.0.0.v201006012005,"org.eclipse.wst.xsl.exslt.ui",1308447804497
+stopped,bundle,org.eclipse.wst.xsl.ui,1.1.1.v201009091745,"org.eclipse.wst.xsl.ui",1308447804499
+stopped,bundle,org.eclipse.wst.xml.xpath.ui,1.1.1.v201007022358,"org.eclipse.wst.xml.xpath.ui",1308447804500
+stopped,bundle,org.eclipse.wst.xsl.debug.ui,1.0.100.v201004290328,"org.eclipse.wst.xsl.debug.ui",1308447804500
+stopped,bundle,org.eclipse.wst.web.ui,1.1.400.v201004141630,"org.eclipse.wst.web.ui",1308447804500
+stopped,bundle,org.eclipse.wst.jsdt.web.ui,1.0.304.v201012160349,"org.eclipse.wst.jsdt.web.ui",1308447804502
+stopped,bundle,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.ui",1308447804506
+stopped,bundle,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.ui",1308447804507
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.305.v201104132127,"org.eclipse.wst.xsd.ui",1308447804510
+stopped,bundle,org.maven.ide.eclipse.editor,0.12.1.20110112-1712,"org.maven.ide.eclipse.editor",1308447804510
+stopped,bundle,org.maven.ide.eclipse.editor.xml,0.12.1.20110112-1712,"org.maven.ide.eclipse.editor.xml",1308447804510
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.104.v201103021532,"org.eclipse.wst.xml.ui",1308447804510
+stopped,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1308447804512
+stopped,bundle,com.adobe.flexbuilder.ajaxbridge,4.0.1.277662,"com.adobe.flexbuilder.ajaxbridge",1308447804512
+stopped,bundle,com.adobe.flexbuilder.dcrad,4.0.1.277662,"com.adobe.flexbuilder.dcrad",1308447804512
+stopped,bundle,com.adobe.flexbuilder.debug.ui,4.0.1.277662,"com.adobe.flexbuilder.debug.ui",1308447804512
+stopped,bundle,com.adobe.flexbuilder.mxml.editor,4.0.1.277662,"com.adobe.flexbuilder.mxml.editor",1308447804512
+stopped,bundle,com.adobe.flexbuilder.css.editor,4.0.1.277662,"com.adobe.flexbuilder.css.editor",1308447804513
+stopped,bundle,com.adobe.flexbuilder.flashbridge,4.0.1.277662,"com.adobe.flexbuilder.flashbridge",1308447804513
+stopped,bundle,com.adobe.flexbuilder.flexunit,4.0.1.277662,"com.adobe.flexbuilder.flexunit",1308447804513
+stopped,bundle,com.adobe.flexbuilder.as.editor,4.0.1.277662,"com.adobe.flexbuilder.as.editor",1308447804513
+stopped,bundle,com.adobe.flexbuilder.exportimport,4.0.1.277662,"com.adobe.flexbuilder.exportimport",1308447804513
+stopped,bundle,com.adobe.flexbuilder.importartwork,4.0.1.277662,"com.adobe.flexbuilder.importartwork",1308447804513
+stopped,bundle,com.adobe.flexbuilder.tengine,4.0.1.277662,"com.adobe.flexbuilder.tengine",1308447804514
+stopped,bundle,com.adobe.flexbuilder.editorcore,4.0.1.277662,"com.adobe.flexbuilder.editorcore",1308447804583
+stopped,bundle,com.adobe.flexbuilder.launching.ui,4.0.1.277662,"com.adobe.flexbuilder.launching.ui",1308447804583
+stopped,bundle,com.adobe.flexbuilder.designview,4.0.1.277662,"com.adobe.flexbuilder.designview",1308447804583
+stopped,bundle,com.adobe.flexbuilder.project.ui,4.0.1.277662,"com.adobe.flexbuilder.project.ui",1308447804583
+stopped,bundle,com.adobe.flexbuilder.debug,4.0.1.277662,"com.adobe.flexbuilder.debug",1308447804585
+stopped,bundle,com.adobe.flash.profiler,4.0.1.277662,"com.adobe.flash.profiler",1308447804587
+stopped,bundle,com.adobe.flexide.exportimport,4.0.1.277662,"com.adobe.flexide.exportimport",1308447804589
+stopped,bundle,com.adobe.flexide.fonts,4.0.1.277662,"com.adobe.flexide.fonts",1308447804589
+stopped,bundle,com.adobe.flexide.designitems,4.0.1.277662,"com.adobe.flexide.designitems",1308447804590
+stopped,bundle,com.adobe.flexide.refactoring.core,4.0.1.277662,"com.adobe.flexide.refactoring.core",1308447804590
+stopped,bundle,com.adobe.flexide.mxml.core,4.0.1.277662,"com.adobe.flexide.mxml.core",1308447804590
+stopped,bundle,com.adobe.flexide.css.core,4.0.1.277662,"com.adobe.flexide.css.core",1308447804590
+stopped,bundle,com.adobe.flexbuilder.monitors.network,4.0.1.277662,"com.adobe.flexbuilder.monitors.network",1308447804600
+stopped,bundle,com.adobe.flexide.as.core,4.0.1.277662,"com.adobe.flexide.as.core",1308447804606
+stopped,bundle,com.adobe.flexide.externaleditors,4.0.1.277662,"com.adobe.flexide.externaleditors",1308447804606
+stopped,bundle,com.adobe.flexide.editorcore,4.0.1.277662,"com.adobe.flexide.editorcore",1308447804606
+stopped,bundle,com.adobe.flexbuilder.mxmlmodel,4.0.1.277662,"com.adobe.flexbuilder.mxmlmodel",1308447804606
+stopped,bundle,com.adobe.flexide.launching,4.0.1.277662,"com.adobe.flexide.launching",1308447804606
+stopped,bundle,com.adobe.flexbuilder.codemodel,4.0.1.277662,"com.adobe.flexbuilder.codemodel",1308447805263
+stopped,bundle,com.adobe.flexbuilder.multisdk,4.0.1.277662,"com.adobe.flexbuilder.multisdk",1308447805263
+stopped,bundle,com.adobe.flexbuilder.ui,4.0.1.277662,"com.adobe.flexbuilder.ui",1308447805264
+stopped,bundle,com.adobe.flexide.playerview,4.0.1.277662,"com.adobe.flexide.playerview",1308447805265
+stopped,bundle,com.adobe.flexide.embeddedplayer,4.0.1.277662,"com.adobe.flexide.embeddedplayer",1308447805266
+stopped,bundle,com.adobe.flexbuilder.project,4.0.1.277662,"com.adobe.flexbuilder.project",1308447805303
+stopped,bundle,com.adobe.flexbuilder.editors.derived,4.0.1.277662,"com.adobe.flexbuilder.editors.derived",1308447805303
+stopped,bundle,org.eclipse.wst.jsdt.support.firefox,1.0.300.v201004150600,"org.eclipse.wst.jsdt.support.firefox",1308447805306
+stopped,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.4.v201103310001,"org.eclipse.wst.jsdt.debug.ui",1308447805309
+stopped,bundle,org.eclipse.wst.jsdt.ui,1.1.5.v201104070556,"org.eclipse.wst.jsdt.ui",1308447805412
+stopped,bundle,org.eclipse.wst.sse.ui,1.2.4.v201103231819,"org.eclipse.wst.sse.ui",1308447805415
+stopped,bundle,org.maven.ide.eclipse,0.12.1.20110112-1712,"org.maven.ide.eclipse",1308447805450
+stopped,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1308447805460
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.ui,1.0.1.v200906111150,"org.eclipse.datatools.enablement.sybase.asa.ui",1308447805461
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ase.ui,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase.ui",1308447805463
+stopped,bundle,org.eclipse.datatools.sqltools.ddlgen.ui,1.0.1.v201002270530,"org.eclipse.datatools.sqltools.ddlgen.ui",1308447805463
+stopped,bundle,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201004270430,"org.eclipse.datatools.connectivity.ui.dse",1308447805464
+stopped,bundle,org.eclipse.mylyn.team.ui,3.4.2.v20100909-0100-e3x,"org.eclipse.mylyn.team.ui",1308447805464
+stopped,bundle,org.eclipse.ui.navigator.resources,3.4.201.M20100707-0800,"org.eclipse.ui.navigator.resources",1308447805464
+stopped,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1308447805468
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.2.v20100909-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1308447805468
+stopped,bundle,org.eclipse.mylyn.ide.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ui",1308447805470
+stopped,bundle,org.eclipse.mylyn.resources.ui,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.resources.ui",1308447805471
+stopped,bundle,org.eclipse.mylyn.wikitext.tasks.ui,1.3.1.v20100823-0100-e3x,"org.eclipse.mylyn.wikitext.tasks.ui",1308447805473
+stopped,bundle,org.eclipse.mylyn.context.ui,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.ui",1308447805473
+stopped,bundle,org.eclipse.mylyn.help.ui,3.4.1.v20100823-0100-e3x,"org.eclipse.mylyn.help.ui",1308447805475
+stopped,bundle,org.eclipse.mylyn.tasks.bugs,3.4.1.v20100823-0100-e3x,"org.eclipse.mylyn.tasks.bugs",1308447805477
+stopped,bundle,org.eclipse.mylyn.tasks.ui,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.tasks.ui",1308447805477
+stopped,bundle,org.eclipse.team.cvs.ui,3.3.301.R36x_v20100825-0800,"org.eclipse.team.cvs.ui",1308447805516
+stopped,bundle,org.eclipse.egit.ui,0.10.1,"org.eclipse.egit.ui",1308447805516
+stopped,bundle,org.eclipse.team.ui,3.5.101.R36x_v20100825-0800,"org.eclipse.team.ui",1308447805549
+stopped,bundle,org.eclipse.compare,3.5.100.I20100526-0800,"org.eclipse.compare",1308447805549
+stopped,bundle,org.eclipse.datatools.enablement.ingres.ui,1.0.0.v201006242214,"org.eclipse.datatools.enablement.ingres.ui",1308447805552
+stopped,bundle,org.eclipse.datatools.sqltools.db.derby.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.derby.ui",1308447805553
+stopped,bundle,org.eclipse.datatools.sqltools.db.generic.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.generic.ui",1308447805554
+stopped,bundle,org.eclipse.datatools.sqltools.routineeditor.ui,1.0.1.v201004060545,"org.eclipse.datatools.sqltools.routineeditor.ui",1308447805555
+stopped,bundle,org.eclipse.datatools.sqltools.sqlbuilder,1.0.3.v201009131745,"org.eclipse.datatools.sqltools.sqlbuilder",1308447805557
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core,1.0.1.v201005250945,"org.eclipse.datatools.sqltools.debugger.core",1308447805558
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages,1.1.0.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages",1308447805559
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui,1.1.1.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui",1308447805560
+stopped,bundle,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.1.v201005250945,"org.eclipse.datatools.sqltools.sqlscrapbook",1308447805562
+stopped,bundle,org.eclipse.datatools.sqltools.sqleditor,1.0.1.v201005130745,"org.eclipse.datatools.sqltools.sqleditor",1308447805563
+stopped,bundle,org.eclipse.datatools.sqltools.editor.core.ui,1.0.0.v201001150815,"org.eclipse.datatools.sqltools.editor.core.ui",1308447805564
+stopped,bundle,org.eclipse.datatools.sqltools.plan,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.plan",1308447805565
+stopped,bundle,org.eclipse.datatools.sqltools.data.ui,1.2.0.v201005250945,"org.eclipse.datatools.sqltools.data.ui",1308447805568
+stopped,bundle,org.eclipse.datatools.sqltools.tabledataeditor,1.0.1.v201005250945,"org.eclipse.datatools.sqltools.tabledataeditor",1308447805570
+stopped,bundle,org.eclipse.datatools.sqltools.result.ui,1.1.0.v201005261700,"org.eclipse.datatools.sqltools.result.ui",1308447805572
+stopped,bundle,org.eclipse.datatools.sqltools.common.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.common.ui",1308447805573
+stopped,bundle,org.eclipse.ui.externaltools,3.2.0.v20100427,"org.eclipse.ui.externaltools",1308447805574
+stopped,bundle,org.eclipse.wst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.wst.server.preview.adapter",1308447805575
+stopped,bundle,org.eclipse.wst.server.http.ui,1.0.200.v20090113,"org.eclipse.wst.server.http.ui",1308447805575
+stopped,bundle,org.eclipse.wst.server.ui,1.1.208.v20110427_1739,"org.eclipse.wst.server.ui",1308447805575
+stopped,bundle,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui",1308447805575
+stopped,bundle,org.eclipse.mylyn.wikitext.ui,1.3.0.v20100608-0100-e3x,"org.eclipse.mylyn.wikitext.ui",1308447805577
+stopped,bundle,org.eclipse.rse.subsystems.files.dstore,2.1.101.v201008191400,"org.eclipse.rse.subsystems.files.dstore",1308447805579
+stopped,bundle,org.eclipse.rse.subsystems.processes.dstore,2.1.100.v200905272300,"org.eclipse.rse.subsystems.processes.dstore",1308447805580
+stopped,bundle,org.eclipse.rse.subsystems.shells.dstore,2.1.201.v201008191400,"org.eclipse.rse.subsystems.shells.dstore",1308447805581
+stopped,bundle,org.eclipse.rse.connectorservice.dstore,3.1.100.v201005281600,"org.eclipse.rse.connectorservice.dstore",1308447805582
+stopped,bundle,org.eclipse.rse.subsystems.files.local,2.1.101.v200907301400,"org.eclipse.rse.subsystems.files.local",1308447805583
+stopped,bundle,org.eclipse.rse.subsystems.processes.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.processes.local",1308447805583
+stopped,bundle,org.eclipse.rse.subsystems.shells.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.shells.local",1308447805583
+stopped,bundle,org.eclipse.rse.connectorservice.local,2.1.100.v200905272300,"org.eclipse.rse.connectorservice.local",1308447805584
+stopped,bundle,org.eclipse.rse.subsystems.files.ssh,2.1.100.v200905272300,"org.eclipse.rse.subsystems.files.ssh",1308447805585
+stopped,bundle,org.eclipse.rse.subsystems.shells.ssh,2.1.100.v200905272300,"org.eclipse.rse.subsystems.shells.ssh",1308447805586
+stopped,bundle,org.eclipse.rse.subsystems.terminals.ssh,1.0.1.v200908051630,"org.eclipse.rse.subsystems.terminals.ssh",1308447805586
+stopped,bundle,org.eclipse.rse.connectorservice.ssh,2.1.100.v200905272300,"org.eclipse.rse.connectorservice.ssh",1308447805589
+stopped,bundle,org.eclipse.rse.connectorservice.telnet,1.2.1.v200908051630,"org.eclipse.rse.connectorservice.telnet",1308447805591
+stopped,bundle,org.eclipse.rse.dstore.security,3.0.200.v201003010830,"org.eclipse.rse.dstore.security",1308447805592
+stopped,bundle,org.eclipse.rse.efs,2.1.200.v201005262000,"org.eclipse.rse.efs",1308447805593
+stopped,bundle,org.eclipse.rse.subsystems.files.ftp,2.1.100.v200905272300,"org.eclipse.rse.subsystems.files.ftp",1308447805594
+stopped,bundle,org.eclipse.rse.subsystems.shells.core,3.1.100.v201003010830,"org.eclipse.rse.subsystems.shells.core",1308447805595
+stopped,bundle,org.eclipse.rse.subsystems.files.core,3.2.1.v201008191400,"org.eclipse.rse.subsystems.files.core",1308447805596
+stopped,bundle,org.eclipse.rse.subsystems.processes.shell.linux,1.1.100.v200905272300,"org.eclipse.rse.subsystems.processes.shell.linux",1308447805597
+stopped,bundle,org.eclipse.rse.subsystems.processes.core,3.1.100.v201003010830,"org.eclipse.rse.subsystems.processes.core",1308447805601
+stopped,bundle,org.eclipse.rse.terminals.ui,1.0.100.v201006041352,"org.eclipse.rse.terminals.ui",1308447805601
+stopped,bundle,org.eclipse.rse.ui,3.1.101.v201008191400,"org.eclipse.rse.ui",1308447805603
+stopped,bundle,org.eclipse.emf.validation.ui.ide,1.3.0.v200901271722,"org.eclipse.emf.validation.ui.ide",1308447805604
+stopped,bundle,org.eclipse.emf.validation.ui,1.3.0.v200901271722,"org.eclipse.emf.validation.ui",1308447805605
+stopped,bundle,org.soyatec.tools.modeling,2.5.0.20091121,"org.soyatec.tools.modeling",1308447805606
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.providers.ide,1.2.0.v20090403-1720,"org.eclipse.gmf.runtime.diagram.ui.providers.ide",1308447805607
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.action.ide,1.4.0.v20100223-2359,"org.eclipse.gmf.runtime.common.ui.action.ide",1308447805608
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.geoshapes,1.4.0.v20100419-2359,"org.eclipse.gmf.runtime.diagram.ui.geoshapes",1308447805610
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.render,1.4.1.v20100909-1300,"org.eclipse.gmf.runtime.diagram.ui.render",1308447805612
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.printing.render,1.4.0.v20100423-2359,"org.eclipse.gmf.runtime.diagram.ui.printing.render",1308447805614
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.printing,1.4.0.v20100430-1518,"org.eclipse.gmf.runtime.diagram.ui.printing",1308447805615
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.providers,1.4.0.v20100430-1518,"org.eclipse.gmf.runtime.diagram.ui.providers",1308447805616
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.actions,1.4.0.v20100223-2359,"org.eclipse.gmf.runtime.diagram.ui.actions",1308447805618
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.dnd,1.2.0.v20090403-1720,"org.eclipse.gmf.runtime.diagram.ui.dnd",1308447805618
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.resources.editor.ide,1.2.0.v20100423-2359,"org.eclipse.gmf.runtime.diagram.ui.resources.editor.ide",1308447805619
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.resources.editor,1.4.1.v20100729-0030,"org.eclipse.gmf.runtime.diagram.ui.resources.editor",1308447805621
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui.properties,1.4.0.v20100430-1518,"org.eclipse.gmf.runtime.diagram.ui.properties",1308447805622
+stopped,bundle,org.eclipse.gmf.runtime.diagram.ui,1.4.1.v20100909-1300,"org.eclipse.gmf.runtime.diagram.ui",1308447805623
+stopped,bundle,org.eclipse.gmf.runtime.emf.ui.properties,1.4.0.v20100304-2359,"org.eclipse.gmf.runtime.emf.ui.properties",1308447805624
+stopped,bundle,org.eclipse.gmf.runtime.emf.ui,1.2.0.v20090403-1720,"org.eclipse.gmf.runtime.emf.ui",1308447805625
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.action,1.2.0.v20090403-1720,"org.eclipse.gmf.runtime.common.ui.action",1308447805626
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.services.action,1.4.0.v20100430-1518,"org.eclipse.gmf.runtime.common.ui.services.action",1308447805627
+stopped,bundle,org.eclipse.gmf.runtime.emf.type.ui,1.2.0.v20090403-1720,"org.eclipse.gmf.runtime.emf.type.ui",1308447805628
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.services,1.3.0.v20100423-2359,"org.eclipse.gmf.runtime.common.ui.services",1308447805629
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.services.dnd.ide,1.2.0.v20090403-1720,"org.eclipse.gmf.runtime.common.ui.services.dnd.ide",1308447805630
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.services.dnd,1.4.0.v20100423-2359,"org.eclipse.gmf.runtime.common.ui.services.dnd",1308447805631
+stopped,bundle,org.eclipse.gmf.runtime.common.ui.services.properties,1.3.0.v20100115-2350,"org.eclipse.gmf.runtime.common.ui.services.properties",1308447805632
+stopped,bundle,org.eclipse.gmf.runtime.draw2d.ui.render.awt,1.4.1.v20100720-0030,"org.eclipse.gmf.runtime.draw2d.ui.render.awt",1308447805633
+stopped,bundle,org.eclipse.gmf.runtime.draw2d.ui.render,1.4.1.v20100813-0030,"org.eclipse.gmf.runtime.draw2d.ui.render",1308447805634
+stopped,bundle,org.eclipse.gmf.runtime.gef.ui,1.4.0.v20100430-1518,"org.eclipse.gmf.runtime.gef.ui",1308447805635
+stopped,bundle,org.eclipse.gmf.runtime.draw2d.ui,1.4.1.v20100909-1300,"org.eclipse.gmf.runtime.draw2d.ui",1308447805636
+stopped,bundle,org.eclipse.gmf.runtime.common.ui,1.4.0.v20100518-2230,"org.eclipse.gmf.runtime.common.ui",1308447805638
+stopped,bundle,com.android.ide.eclipse.hierarchyviewer,10.0.1.v201103111512-110841,"com.android.ide.eclipse.hierarchyviewer",1308447805638
+stopped,bundle,com.android.ide.eclipse.ddms,10.0.1.v201103111512-110841,"com.android.ide.eclipse.ddms",1308447805639
+stopped,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1308447805639
+stopped,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1308447805639
+stopped,bundle,com.adobe.flexbuilder.services.CFService,4.0.1.277662,"com.adobe.flexbuilder.services.CFService",1308447805674
+stopped,bundle,com.adobe.flexbuilder.services.BlazeDSService,4.0.1.277662,"com.adobe.flexbuilder.services.BlazeDSService",1308447805677
+stopped,bundle,com.adobe.flexbuilder.services.LCDSService,4.0.1.277662,"com.adobe.flexbuilder.services.LCDSService",1308447805728
