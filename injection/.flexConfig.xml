@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+
+	<compiler>
+	
+		
+
+
+
+
+
+		<locale>
+			<locale-element>en_US</locale-element>
+		</locale>
+
+
+		<keep-as3-metadata>
+			<name>ConstructorArgument</name>
+			<name>Inject</name>
+			<name>PostConstruct</name>
+			<name>Argument</name>
+		</keep-as3-metadata>
+
+		<namespaces>
+		</namespaces>
+		
+		<theme>
+		</theme>
+				
+	</compiler>
+	
+	
+	
+	
+	
+
+	<metadata>
+	</metadata>
+	
+</flex-config>

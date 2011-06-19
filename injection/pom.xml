@@ -21,18 +21,29 @@
 				<version>${flex.mojos.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+					<targetPlayer>10.0</targetPlayer>
+						<!--
+						<debug>false</debug>
+						<enableM2e>false</enableM2e>
+						
+						<flexBuilderOutputFolderPath>target</flexBuilderOutputFolderPath>
+						<verboseStacktraces>true</verboseStacktraces>
+						<storepass/>
+						-->						
+						<!--
+						<testRunner>
+							<launcher>
+								<flashplayerCommand>${flashPlayer.command}</flashplayerCommand>
+							</launcher>
+						</testRunner>
+						-->
 					<keepAs3Metadatas>
 						<keepAs3Metadata>ConstructorArgument</keepAs3Metadata>
 						<keepAs3Metadata>Inject</keepAs3Metadata>
 						<keepAs3Metadata>PostConstruct</keepAs3Metadata>
 						<keepAs3Metadata>Argument</keepAs3Metadata>
 					</keepAs3Metadatas>
-					<targetPlayer>${flash.player.version}</targetPlayer>
-					<debug>false</debug>
-					<enableM2e>false</enableM2e>
-					<flexBuilderOutputFolderPath>target</flexBuilderOutputFolderPath>
-					<verboseStacktraces>true</verboseStacktraces>
-					<storepass/>
+					
 					<!--
 					<testRunner>
 						<launcher>
@@ -60,12 +71,22 @@
 	
 	<dependencies>
 		<dependency>
-			<groupId>com.adobe.flex.framework</groupId>
-			<artifactId>playerglobal</artifactId>
-			<version>${flex.version}</version>
-			<classifier>${flash.player.version}</classifier>
+			<groupId>org.as3commons</groupId>
+			<artifactId>as3commons-lang</artifactId>
+			<version>${commons.lang.version}</version>
 			<type>swc</type>
-			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.as3commons</groupId>
+			<artifactId>as3commons-logging</artifactId>
+			<version>${commons.logging.version}</version>
+			<type>swc</type>
+		</dependency>
+		<dependency>
+			<groupId>org.as3commons</groupId>
+			<artifactId>as3commons-reflect</artifactId>
+			<version>${commons.reflect.version}</version>
+			<type>swc</type>
 		</dependency>
 		<dependency>
 			<groupId>com.adobe.flex.framework</groupId>
@@ -97,24 +118,6 @@
 			<version>20071011</version>
 			<type>swc</type>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.as3commons</groupId>
-			<artifactId>as3commons-lang</artifactId>
-			<version>${commons.lang.version}</version>
-			<type>swc</type>
-		</dependency>
-		<dependency>
-			<groupId>org.as3commons</groupId>
-			<artifactId>as3commons-logging</artifactId>
-			<version>${commons.logging.version}</version>
-			<type>swc</type>
-		</dependency>
-		<dependency>
-			<groupId>org.as3commons</groupId>
-			<artifactId>as3commons-reflect</artifactId>
-			<version>${commons.reflect.version}</version>
-			<type>swc</type>
 		</dependency>
 	</dependencies>
 </project>
