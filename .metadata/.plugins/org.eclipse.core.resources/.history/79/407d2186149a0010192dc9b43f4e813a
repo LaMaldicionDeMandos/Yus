@@ -1,9 +1,0 @@
-package org.opensource.pasut.yus.configuration
-{
-	import com.marce.framework.ioc.injection.Mapper;
-
-	public interface Configurator
-	{
-		function configure(mapper:Mapper):void;
-	}
-}

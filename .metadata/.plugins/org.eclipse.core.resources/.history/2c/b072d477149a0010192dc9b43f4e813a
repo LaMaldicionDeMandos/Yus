@@ -1,9 +1,0 @@
-package org.opensource.pasut.yus.configuration
-{
-	import com.marce.framework.ioc.injection.Mapping;
-
-	public interface MappingProccessor
-	{
-		function proccess(mapping:Mapping):void;
-	}
-}
