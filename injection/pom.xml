@@ -33,11 +33,13 @@
 					<flexBuilderOutputFolderPath>target</flexBuilderOutputFolderPath>
 					<verboseStacktraces>true</verboseStacktraces>
 					<storepass/>
+					<!--
 					<testRunner>
 						<launcher>
 							<flashplayerCommand>${flashPlayer.command}</flashplayerCommand>
 						</launcher>
 					</testRunner>
+					-->
 				</configuration>
 				<dependencies>
 					<dependency>
