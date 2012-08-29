@@ -1,0 +1,18 @@
+## Que es Yus?
+Yus es un framework de Inyeccion de dependencia para Desarrolladores Action Script, inspirado en [Dawn](https://github.com/sammyt/dawn). 
+Gracias!! [Samuel Williams](https://github.com/sammyt) por la inspiracion.
+
+***
+
+La idea de hacer este framework surgio luego de utilizar [Dawn](https://github.com/sammyt/dawn), debido a la complejidades que surgieron al tratar de cubrir algunas necesidades que no podia satisfacer facilemente sin agregar esfuerzo.
+
+Luego de probar varias alternativas (la mayoria orientadas a configuracion por medio de xml) como Parsley, SpringActionScript etc. Decidi que ninguno podia satisfacer todas mis necesidades sin sacrificar otras.
+
+Por eso surgió la idea de desarrollar mi primer framework basado en [Guise](http://code.google.com/p/google-guice/).
+
+# Indice
+* [[Configuracion]]
+* [[Inyeccion de Dependencia (DI)]]
+* [Agregando Plugins]]
+* [[Notification Bus]]
+* [Creando Plugins]]
