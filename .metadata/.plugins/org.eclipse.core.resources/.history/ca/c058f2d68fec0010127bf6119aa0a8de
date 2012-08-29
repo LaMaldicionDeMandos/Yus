@@ -1,0 +1,42 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	import flash.events.Event;
+	
+	import org.as3commons.bytecode.proxy.IClassProxyInfo;
+	import org.as3commons.bytecode.proxy.IProxyFactory;
+	import org.as3commons.bytecode.proxy.impl.ProxyFactory;
+	import org.as3commons.reflect.Type;
+	import org.opensource.pasut.yus.configuration.MappingProccessor;
+	import org.opensource.pasut.yus.injection.Mapping;
+	
+	internal class LocalizationProcessor implements MappingProccessor
+	{
+		public function LocalizationProcessor()
+		{
+		}
+		
+		public function proccess(mapping:Mapping):void
+		{
+			proccessClass(getType(mapping),mapping);
+		}
+		
+		private function getType(mapping:Mapping):Type{
+			if(mapping.singleton!=null) return Type.forInstance(mapping.singleton);
+			return (mapping.to!=null)? Type.forClass(mapping.to) : Type.forClass(mapping.type);
+		}
+		
+		private function proccessClass(type:Type,mapping:Mapping):void{
+			var metadatas:Array = type.getMetadataContainers("Localized"); 
+			if(metadatas==null || metadatas.length==0) return;
+			var proxyFactory:IProxyFactory = new ProxyFactory();
+			var classProxyInfo:IClassProxyInfo = proxyFactory.defineProxy(type);
+			//proxyFactory.defineProxy(LocalizationInterceptor, BasicMethodInvocationInterceptor);
+			classProxyInfo.proxyAccessor("name");
+			proxyFactory.generateProxyClasses();
+			var creator:LocalizationCreator = new LocalizationCreator(type);
+			mapping.customCreator = creator;
+			proxyFactory.addEventListener(Event.COMPLETE, creator.onComplete);
+			proxyFactory.loadProxyClasses();
+		}
+	}
+}

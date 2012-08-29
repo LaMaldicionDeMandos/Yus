@@ -1,0 +1,16 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	import org.opensource.pasut.yus.injection.YusCreator;
+	
+	public class LocalizationCreator implements YusCreator
+	{
+		public function LocalizationCreator()
+		{
+		}
+		
+		public function create(type:Class, params:Array):Object
+		{
+			return null;
+		}
+	}
+}

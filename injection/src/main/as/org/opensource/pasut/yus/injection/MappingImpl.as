@@ -9,6 +9,7 @@ package org.opensource.pasut.yus.injection
 		private var _asSingleton:Boolean = false;
 		private var _name:String;
 		private var _toFactory:Class;
+		private var _customCreator:YusCreator;
 		
 		private var _factory:BeanFactory;
 		
@@ -66,6 +67,7 @@ package org.opensource.pasut.yus.injection
 			_copy.toFactory = this.toFactory;
 			if(_asSingleton)
 				_copy.asSingleton();
+			_copy._factory = _factory;
 			return _copy;
 		} 
 		
@@ -94,6 +96,14 @@ package org.opensource.pasut.yus.injection
 				_factory = new BeanFactory(this);
 			}
 			return _factory;
+		}
+		
+		public function get customCreator():YusCreator{
+			return _customCreator;
+		}
+		
+		public function set customCreator(value:YusCreator):void{
+			_customCreator = value;
 		}
 	}
 }

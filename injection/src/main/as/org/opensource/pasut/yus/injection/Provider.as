@@ -1,7 +1,5 @@
 package org.opensource.pasut.yus.injection
 {	
-	import org.opensource.pasut.yus.Injector;
-	
 	import flash.utils.Dictionary;
 	
 	import org.as3commons.reflect.Accessor;
@@ -13,6 +11,7 @@ package org.opensource.pasut.yus.injection
 	import org.as3commons.reflect.Parameter;
 	import org.as3commons.reflect.Type;
 	import org.as3commons.reflect.Variable;
+	import org.opensource.pasut.yus.Injector;
 
 	internal class Provider
 	{
@@ -22,7 +21,7 @@ package org.opensource.pasut.yus.injection
 		}
 		
 		[override]
-		public function getObject():Object{
+		public function getObject(customCreator:YusCreator=null):Object{
 			return null;
 		}
 		
@@ -82,10 +81,10 @@ package org.opensource.pasut.yus.injection
 		protected function createArguments(parameters:Array,metadatas:Array):Array{
 			var arguments:Array = [];
 			var metadataMap:Dictionary = createMetadataMap(metadatas);
-			for each(var argument:Parameter in parameters){
-				var namedArgument:Object = metadataMap[argument.index];
-				var object:Object = createArgument(argument,namedArgument as String);
-				if(object!=null || !argument.isOptional)
+			for(var i:int=0;i<parameters.length; i++){
+				var namedArgument:Object = metadataMap[i+1];
+				var object:Object = createArgument(parameters[i],namedArgument as String);
+				if(object!=null || !parameters[i].isOptional)
 					arguments.push(object);
 			}
 			return arguments;

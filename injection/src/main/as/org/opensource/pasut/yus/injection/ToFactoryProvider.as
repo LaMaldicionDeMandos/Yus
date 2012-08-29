@@ -12,7 +12,7 @@ package org.opensource.pasut.yus.injection
 			provider = new BasicProvider(clazz);
 		}
 		
-		override public function getObject():Object
+		override public function getObject(customCreator:YusCreator=null):Object
 		{
 			var factory:Object = provider.getObject();
 			var method:Method = getMethod(factory);

@@ -4,11 +4,11 @@
 	<artifactId>yus-notification</artifactId>
 	<packaging>swc</packaging>
 	<name>Yus Notification</name>
-	
+	<version>1.1.2</version>
 	<parent>
 		<groupId>org.opensource.pasut.yus</groupId>
 		<artifactId>yus-parent</artifactId>
-		<version>1.0.0</version>
+		<version>1.1.2</version>
 	</parent>
 	
 	<build>
@@ -88,9 +88,9 @@
 			<type>swc</type>
 		</dependency>
 		<dependency>
-			<groupId>${pom.groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>yus-injection</artifactId>
-			<version>${pom.version}</version>
+			<version>${project.version}</version>
 			<type>swc</type>
 		</dependency>
 		<dependency>

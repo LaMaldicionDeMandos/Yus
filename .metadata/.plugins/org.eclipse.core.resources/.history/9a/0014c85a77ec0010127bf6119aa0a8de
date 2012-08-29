@@ -1,0 +1,16 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	import org.opensource.pasut.yus.configuration.MappingProccessor;
+	import org.opensource.pasut.yus.injection.Mapping;
+	
+	public class LocalizationProcessor implements MappingProccessor
+	{
+		public function LocalizationProcessor()
+		{
+		}
+		
+		public function proccess(mapping:Mapping):void
+		{
+		}
+	}
+}

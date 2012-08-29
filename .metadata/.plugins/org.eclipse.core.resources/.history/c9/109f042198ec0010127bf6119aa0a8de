@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties analytics="false" mainApplicationPath="yus-localization.as" projectUUID="2f1f9681-506d-4938-b4ab-bce7d2adfb6e" version="6">
+  <compiler additionalCompilerArguments=" -load-config+=..\..\..\.flexConfig.xml -include-sources ..\..\test\as ." autoRSLOrdering="true" copyDependentFiles="true" flexSDK="Flex 4.1" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="false" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" sourceFolderPath="src/main/as" strict="true" targetPlayerVersion="10.1.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
+    <compilerSourcePath>
+      <compilerSourcePathEntry kind="1" linkType="1" path="src/test/as"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="src/main/as"/>
+    </compilerSourcePath>
+    <libraryPath defaultLinkType="3">
+      <libraryPathEntry kind="3" linkType="1" path="C:/Users/Marcelo/.m2/repository/com/asunit/asunit/20071011/asunit-20071011.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="C:/Users/Marcelo/.m2/repository/org/as3commons/as3commons-bytecode/1.0/as3commons-bytecode-1.0.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="C:/Users/Marcelo/.m2/repository/org/as3commons/as3commons-reflect/1.4.2/as3commons-reflect-1.4.2.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="C:/Users/Marcelo/.m2/repository/org/as3commons/as3commons-lang/0.3.2/as3commons-lang-0.3.2.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="C:/Users/Marcelo/.m2/repository/org/as3commons/as3commons-logging/2.5.2/as3commons-logging-2.5.2.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="2" path="C:/Users/Marcelo/.m2/repository/org/sonatype/flexmojos/flexmojos-unittest-support/4.0-RC1/flexmojos-unittest-support-4.0-RC1.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="2" path="C:/Users/Marcelo/.m2/repository/nl/demonsters/debugger/monsterdebugger/2.0.3/monsterdebugger-2.0.3.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="3" linkType="1" path="C:/Users/Marcelo/.m2/repository/org/sonatype/flexmojos/flexmojos-unittest-asunit/3.8/flexmojos-unittest-asunit-3.8.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="4" path="">
+        <modifiedEntries>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/framework.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/osmf.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/rpc.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/spark.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/sparkskins.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/textLayout.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="2" path="${PROJECT_FRAMEWORKS}/libs/utilities.swc" useDefaultLinkType="false"/>
+        </modifiedEntries>
+        <excludedEntries>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/flex.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/datavisualization.swc" useDefaultLinkType="false"/>
+        </excludedEntries>
+      </libraryPathEntry>
+      <libraryPathEntry kind="3" linkType="1" path="/injection/bin-debug/injection.swc" useDefaultLinkType="false"/>
+    </libraryPath>
+    <sourceAttachmentPath/>
+  </compiler>
+  <applications/>
+  <modules/>
+  <buildCSSFiles/>
+</actionScriptProperties>

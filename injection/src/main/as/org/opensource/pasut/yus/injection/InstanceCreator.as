@@ -2,7 +2,14 @@ package org.opensource.pasut.yus.injection
 {
 	internal class InstanceCreator
 	{
-		internal static function create( type:Class, params:Array ):Object{
+		internal static function create( type:Class, params:Array , customCreator:YusCreator=null):Object{
+			params = (params!=null && params.length==0)? null : params;
+			return (customCreator!=null)
+				? customCreator.create(type,params)
+				: createInternal(type, params);
+		}
+		
+		private static function createInternal(type:Class, params:Array):Object{
 			if( !params )
 			{
 				return new type();

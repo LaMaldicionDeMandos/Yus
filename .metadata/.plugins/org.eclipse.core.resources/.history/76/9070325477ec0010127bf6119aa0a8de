@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="1">
+  <includeClasses>
+    <classEntry path="org.opensource.pasut.yus.module.localzation.LocalizationModule"/>
+    <classEntry path="org.opensource.pasut.yus.module.localzation.LocalizationConfigurator"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

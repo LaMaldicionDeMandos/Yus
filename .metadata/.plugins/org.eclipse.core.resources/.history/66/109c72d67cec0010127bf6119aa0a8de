@@ -1,0 +1,27 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	import org.opensource.pasut.yus.configuration.Configurator;
+	import org.opensource.pasut.yus.configuration.InjectionModule;
+	
+	public class LocalizationModule implements InjectionModule
+	{
+		public function LocalizationModule()
+		{
+		}
+		
+		public function get configurator():Configurator
+		{
+			return new LocalizationConfigurator();
+		}
+		
+		public function get injectionProccessors():Array
+		{
+			return [];
+		}
+		
+		public function get mappingProccessors():Array
+		{
+			return [new LocalizationProcessor()];
+		}
+	}
+}

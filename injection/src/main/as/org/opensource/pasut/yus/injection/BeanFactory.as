@@ -42,7 +42,7 @@ package org.opensource.pasut.yus.injection
 		}
 		
 		private function createInstance():Object{
-			return provider.getObject();
+			return provider.getObject(mapping.customCreator);
 		}
 	}
 }

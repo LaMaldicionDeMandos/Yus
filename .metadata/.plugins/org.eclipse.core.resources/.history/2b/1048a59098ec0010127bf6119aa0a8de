@@ -1,0 +1,25 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	import org.as3commons.bytecode.interception.IInterceptor;
+	import org.as3commons.bytecode.interception.IMethodInvocation;
+	import org.as3commons.reflect.Type;
+	
+	public class LocalizationInterceptor implements IInterceptor
+	{
+		private var type:Type;
+		public function LocalizationInterceptor(type:Type)
+		{
+			this.type = type;
+		}
+		
+		public function intercept(invocation:IMethodInvocation):void
+		{
+			trace("TARGET: " + invocation.targetInstance);
+			if(invocation.targetMember!=null){
+				trace("TARGET MEMBER: " + invocation.targetMember.localName);
+				invocation.proceed = false;
+				invocation.returnValue = "Saraza Fruta";
+			}
+		}
+	}
+}

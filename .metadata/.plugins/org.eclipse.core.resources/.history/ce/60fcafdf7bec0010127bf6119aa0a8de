@@ -1,0 +1,32 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	import org.as3commons.bytecode.proxy.event.ProxyFactoryEvent;
+	import org.as3commons.bytecode.proxy.impl.ProxyFactory;
+	import org.as3commons.reflect.Type;
+	import org.opensource.pasut.yus.injection.YusCreator;
+	
+	public class LocalizationCreator implements YusCreator
+	{
+		private var proxyFactory:ProxyFactory;
+		private var type:Type;
+		public function LocalizationCreator(proxyFactory:ProxyFactory, type:Type)
+		{
+			this.proxyFactory = proxyFactory;
+			this.type = type;
+		}
+		
+		public function create(type:Class, params:Array):Object
+		{
+			addListener();
+			return proxyFactory.createProxy(type,params);
+		}
+		
+		private function addListener():void{
+			proxyFactory.addEventListener(ProxyFactoryEvent.GET_METHOD_INVOCATION_INTERCEPTOR, createInterceptor,false, 0, true);
+		}
+		
+		private function createMethodInterceptor(event:ProxyFactoryEvent):void {
+			
+		}
+	}
+}

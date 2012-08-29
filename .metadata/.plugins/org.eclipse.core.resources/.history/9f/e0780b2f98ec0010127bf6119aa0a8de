@@ -1,0 +1,7 @@
+package org.opensource.pasut.yus.module.localzation
+{
+	public interface LocaleService
+	{
+		
+	}
+}

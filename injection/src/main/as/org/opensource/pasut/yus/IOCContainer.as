@@ -1,6 +1,8 @@
 package org.opensource.pasut.yus
 {
 	
+	import flash.utils.Dictionary;
+	
 	import org.opensource.pasut.yus.configuration.Configurator;
 	import org.opensource.pasut.yus.configuration.InjectionModule;
 	import org.opensource.pasut.yus.configuration.InjectionProccessor;
@@ -11,12 +13,10 @@ package org.opensource.pasut.yus
 	import org.opensource.pasut.yus.injection.Mapping;
 	import org.opensource.pasut.yus.injection.MappingBuilder;
 	import org.opensource.pasut.yus.injection.MappingImpl;
-	
-	import flash.utils.Dictionary;
 
 	internal class IOCContainer
 	{
-		private var mappings:Vector.<Mapping>;
+		private var mappings:Dictionary;
 		
 		private var injectionDelegators:ProccessorsProxy;
 		
@@ -24,7 +24,7 @@ package org.opensource.pasut.yus
 		
 		public function IOCContainer()
 		{
-			mappings = new Vector.<Mapping>();
+			mappings = new Dictionary();
 			injectionDelegators = new ProccessorsProxy();
 			mappingDelegators = new ProccessorsProxy();
 			install(new SelfConfigurator(injectionDelegators,mappingDelegators));
@@ -44,7 +44,7 @@ package org.opensource.pasut.yus
 			var mapper:Mapper = MapperFactory.createMapper();
 			configurator.configure(mapper);
 			addMappings(mapper);
-			proccessMappings();
+			proccessMappings(mapper.mappings);
 		}
 		
 		public function getByType(clazz:Class):Object{
@@ -56,16 +56,20 @@ package org.opensource.pasut.yus
 		}
 		
 		public function getByName(name:String):Object{
-			for each(var mapping:Mapping in mappings){
-				if(mapping.name == name)
-					return mapping.getInstance();
-			}
+			if(mappings[name]!=null)
+				return mappings[name].getInstance();
 			return null;
+//			for each(var mapping:Mapping in mappings){
+//				if(mapping.name == name)
+//					return mapping.getInstance();
+//			}
+//			return null;
 		}
 		
 		private function addMappings(mapper:Mapper):void{
 			for each(var mapping:Mapping in mapper.mappings){
-				mappings.push(mapping);
+				mappings[mapping.name] = mapping;
+				//mappings.push(mapping);
 			}
 		}
 		
@@ -77,7 +81,7 @@ package org.opensource.pasut.yus
 			mappingDelegators.addProccessors(delegators);
 		}
 		
-		private function proccessMappings():void{
+		private function proccessMappings(mappings:Vector.<Mapping>):void{
 			for each(var mapping:Mapping in mappings){
 				for each(var delegator:MappingProccessor in mappingDelegators.proccessors){
 					delegator.proccess(mapping);

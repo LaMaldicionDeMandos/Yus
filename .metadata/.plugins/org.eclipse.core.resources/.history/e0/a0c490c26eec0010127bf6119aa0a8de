@@ -1,0 +1,7 @@
+package org.opensource.pasut.yus.injection
+{
+	public interface YusCreator
+	{
+		
+	}
+}

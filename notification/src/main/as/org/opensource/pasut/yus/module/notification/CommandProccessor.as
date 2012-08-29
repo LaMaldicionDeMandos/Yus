@@ -21,7 +21,7 @@ package org.opensource.pasut.yus.module.notification
 		}
 		
 		private function getType(mapping:Mapping):Type{
-			if(mapping.singleton!=null) return Type.forInstance(mapping.singleton);
+			//if(mapping.singleton!=null) return Type.forInstance(mapping.singleton);
 			return (mapping.to!=null)? Type.forClass(mapping.to) : Type.forClass(mapping.type);
 		}
 		

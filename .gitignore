@@ -1,0 +1,10 @@
+*~
+.settings
+.project
+.classpath
+.actionScriptProperties
+.flexConfig.xml
+.flexLibProperties
+.flexProperties
+.metadata
+target
